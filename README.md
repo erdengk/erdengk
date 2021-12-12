@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-Hi, I'm `Kenive`, engage in software development work using Java language.
+Hi, I'm `Kevin`, engage in software development work using Java language.
 
 
 #### Technologies I use
