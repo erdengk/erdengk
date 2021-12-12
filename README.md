@@ -13,6 +13,7 @@ Hi, I'm `Kenive`, engage in software development work using Java language.
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
 #### 📫 Reach me
-[My blog](http://erdengk.top/) 
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/erdengk) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanenngdek@gmail.com)](mailto:guqing3478520@gmail.com)
+
+### 🏠 [My blog](http://erdengk.top/) 
