@@ -14,6 +14,6 @@ Hi, I'm `Kevin`, engage in software development work using Java language.
 
 #### 📫 Reach me
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/erdengk) 
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanenngdek@gmail.com)](mailto:guqing3478520@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanenngdek@gmail.com)](mailto:wanenngdek@gmail.com)
 
 ### 🏠 [My blog](http://erdengk.top/) 
