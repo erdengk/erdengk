@@ -1,22 +1,32 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Kai Dang
 
-Hi, I'm `Kevin`, engage in software development work using Java language.Currently contributing to [Polypheny](https://github.com/polypheny/Polypheny-DB)
+Hi, I'm `Kevin`, engage in software development work using Java language.
+
+Currently contributing to [Polypheny](https://github.com/polypheny/Polypheny-DB)
 
 
 
-### Languages
+## Technology Stack
 
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="html" width="40" height="40"/> </a>
-<a> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="css" width="40" height="40"/> </a>
-<a> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
+![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white)
+![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+
+![Spring](https://img.shields.io/badge/-Spring-green?style=flat-square&logo=Spring&logoColor=white)
+![Apache RocketMQ](https://img.shields.io/badge/-RocketMQ-important?style=flat-square&logo=Apache-RocketMQ&logoColor=white)
 
 
-### Database
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>
+![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-%23F05032?style=flat-square&logo=redis&logoColor=white)
+
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Apache Maven](https://img.shields.io/badge/-Maven-orange?style=flat-square&logo=Apache-Maven)
+![Gradle](https://img.shields.io/badge/-Gradle-green?style=flat-square&logo=Gradle)
+
+![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
+![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+
 
 ### 📫 Reach me
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/erdengk) 
