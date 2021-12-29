@@ -1,6 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=erdengk&show_icons=true&hide_title=true">
-
-### Hi there 👋
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Kai Dang
 
 Hi, I'm `Kevin`, engage in software development work using Java language.Currently contributing to [Polypheny](https://github.com/polypheny/Polypheny-DB)
 
@@ -25,3 +23,11 @@ Hi, I'm `Kevin`, engage in software development work using Java language.Current
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanenngdek@gmail.com)](mailto:wanenngdek@gmail.com)
 
 ### 🏠 [My blog](http://erdengk.top/) 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=erdengk&show_icons=true&hide_title=true">
+
+![Metrics](https://metrics.lecoq.io/erdengk?template=classic&isocalendar=1&languages=1&introduction=1&stars=1&people=1&followup=1&lines=1&isocalendar.duration=half-year&languages.limit=8&languages.sections=most-used&languages.colors=github&languages.threshold=0%25&languages.indepth=false&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&stars.limit=4&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&followup.sections=repositories&config.timezone=Asia%2FShanghai)
+
+
+
+
