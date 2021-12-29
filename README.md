@@ -28,11 +28,10 @@ Currently contributing to [Polypheny](https://github.com/polypheny/Polypheny-DB)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 
-### 📫 Reach me
+## 📫 Reach me
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/erdengk) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanenngdek@gmail.com)](mailto:wanenngdek@gmail.com)
 
-### 🏠 [My blog](http://erdengk.top/) 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=erdengk&show_icons=true&hide_title=true">
 
