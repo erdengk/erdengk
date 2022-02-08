@@ -6,6 +6,7 @@ Currently contributing to [Polypheny](https://github.com/polypheny/Polypheny-DB)
 
 Welcome to this [community](https://v2tl.com/) for beginners of open source.
 
+![](https://komarev.com/ghpvc/?username=erdengk&color=blue)
 
 
 ## Technology Stack
