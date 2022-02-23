@@ -8,6 +8,8 @@ Welcome to this [community](https://v2tl.com/) for beginners of open source.
 
 ![](https://komarev.com/ghpvc/?username=erdengk&color=blue)
 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/erdengk)](https://badges.pufler.dev)
+
 
 ## Technology Stack
 
