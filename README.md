@@ -2,7 +2,7 @@
 
 Hi, I'm `Kai Dang`, engage in software development work using Java language.
 
-Currently contributing to [Polypheny](https://github.com/polypheny/Polypheny-DB)
+Currently contributing to [Apache Shenyu](https://github.com/apache/incubator-shenyu) and [Polypheny](https://github.com/polypheny/Polypheny-DB)
 
 Welcome to this [community](https://v2tl.com/) for beginners of open source.
 
