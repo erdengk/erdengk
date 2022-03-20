@@ -22,25 +22,39 @@ Welcome to this [community](https://v2tl.com/) for beginners of open source.
 
 ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-%23F05032?style=flat-square&logo=redis&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-%23269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-%232088FF?style=flat-square&logo=Kubernetes&logoColor=ffffff)
 ![Apache Maven](https://img.shields.io/badge/-Maven-orange?style=flat-square&logo=Apache-Maven)
+![Helm](https://img.shields.io/badge/-Helm-%2338b2ac?style=flat-square&logo=Helm&logoColor=ffffff)
 ![Gradle](https://img.shields.io/badge/-Gradle-green?style=flat-square&logo=Gradle)
 
+![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
+![IDEA](https://img.shields.io/badge/-IDEA-%23000000?style=flat-square&logo=IntelliJ-IDEA&logoColor=%23ffffff)
+![Chrome](https://img.shields.io/badge/-Chrome-%234285F4?style=flat-square&logo=google-chrome&logoColor=%23ffffff)
+
+
+
 
 
 ## 📫 Reach me
 [![Github Badge](https://img.shields.io/badge/-Github-24292e?style=flat&logo=github&logoColor=white&link=)](https://github.com/erdengk) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wanenngdek@gmail.com)](mailto:wanenngdek@gmail.com)
 
+
+<a align="right">
+<img src="https://github-readme-stats.vercel.app/api?username=erdengk&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
+</a>
+<!-- 
 <a align="center" href="">
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=erdengk&show_icons=true&theme=tokyonight" alt="my github stats" width="420"/>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdengk&layout=compact&theme=tokyonight" alt="languages" height="165">
 </p>
-
+ -->
 
 <br>
 
