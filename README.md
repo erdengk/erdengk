@@ -23,12 +23,13 @@ Welcome to this [community](https://gsoc.com.cn/) for beginners of open source.
 ![MySQL](https://img.shields.io/badge/-MySQL-informational?style=flat-square&logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-%23F05032?style=flat-square&logo=redis&logoColor=white)
 
-
+![Apache Maven](https://img.shields.io/badge/-Maven-orange?style=flat-square&logo=Apache-Maven)
+![Gradle](https://img.shields.io/badge/-Gradle-green?style=flat-square&logo=Gradle)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%232088FF?style=flat-square&logo=Kubernetes&logoColor=ffffff)
-![Apache Maven](https://img.shields.io/badge/-Maven-orange?style=flat-square&logo=Apache-Maven)
+
 ![Helm](https://img.shields.io/badge/-Helm-%2338b2ac?style=flat-square&logo=Helm&logoColor=ffffff)
-![Gradle](https://img.shields.io/badge/-Gradle-green?style=flat-square&logo=Gradle)
+
 
 ![Linux](https://img.shields.io/badge/-Linux-%23FCC624?style=flat-square&logo=linux&logoColor=%23ffffff)
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
