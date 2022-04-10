@@ -27,7 +27,6 @@ Welcome to this [community](https://gsoc.com.cn/) for beginners of open source.
 ![Gradle](https://img.shields.io/badge/-Gradle-green?style=flat-square&logo=Gradle)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-%232088FF?style=flat-square&logo=Kubernetes&logoColor=ffffff)
-
 ![Helm](https://img.shields.io/badge/-Helm-%2338b2ac?style=flat-square&logo=Helm&logoColor=ffffff)
 
 
