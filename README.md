@@ -4,7 +4,7 @@ Hi, I'm `Kai Dang`, engage in software development work using Java language.
 
 Currently contributing to [Apache Shenyu](https://github.com/apache/incubator-shenyu)
 
-Welcome to this [community](https://gsoc.com.cn/) for beginners of open source.
+Welcome to this [community](https://bbs.gsoc.com.cn/) for beginners of open source.
 
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue) [![Commits Badge](https://badges.pufler.dev/commits/monthly/erdengk)](https://badges.pufler.dev)
 
