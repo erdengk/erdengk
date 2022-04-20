@@ -9,6 +9,8 @@ Welcome to this [community](https://bbs.gsoc.com.cn/) for beginners of open sour
 
 Welcome to subscribe to my newsletter： [Fowever Free](https://www.getrevue.co/profile/erdengk). -->
 
+I'm preparing to go for a daily internship after September this year. 
+
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue) [![Commits Badge](https://badges.pufler.dev/commits/monthly/erdengk)](https://badges.pufler.dev)
 
 
