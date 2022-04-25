@@ -5,9 +5,9 @@ Hi, I'm `Kai Dang`, engage in software development work using Java language.
 Currently contributing to [Apache ShenYu](https://github.com/apache/incubator-shenyu)
 <!-- 
 Welcome to this [community](https://bbs.gsoc.com.cn/) for beginners of open source. -->
-<!-- 
 
-Welcome to subscribe to my newsletter： [Fowever Free](https://www.getrevue.co/profile/erdengk). -->
+
+Welcome to subscribe to my newsletter： [Fowever Free](https://erdengk.zhubai.love/).
 
 I'm preparing to go for a daily internship after September this year. 
 
