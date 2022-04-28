@@ -14,7 +14,7 @@ I'm preparing to go for a daily internship after September this year.
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue) [![Commits Badge](https://badges.pufler.dev/commits/monthly/erdengk)](https://badges.pufler.dev)
 
 
-## Technology Stack
+<!-- ## Technology Stack
 
 ![Java](https://img.shields.io/badge/-Java-red?style=flat-square&logo=Java&logoColor=white)
 ![python](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=python&logoColor=white)
@@ -40,8 +40,23 @@ I'm preparing to go for a daily internship after September this year.
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![Nginx](https://img.shields.io/badge/-Nginx-%23269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
-
-
+ -->
+```js
+const aboutMe = {
+   pronouns: "he" | "him",
+   code: [ Java, Go , Python , HTML, CSS, JavaScript],
+   technologies: {
+      backEnd: {
+         java: ["Spring"],["Spring Cloud"],["Apache RocketMQ"]
+      },
+      databases: ["MySQL", "Redis"],
+      cloud: ["Docker", "Kubernetes"],
+      package manager: ["Maven", "Gradle", "Helm"]
+   },
+   currentOccupation: ["First-year graduate students. Seeking daily internships"],
+   challenge: "Participate in GSoC2022",
+};
+```
 
 
 ## 📫 Reach me
