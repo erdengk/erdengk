@@ -51,7 +51,7 @@ const aboutMe = {
       backEnd: {
          java: ["Spring"],["Spring Cloud"],["Apache RocketMQ"]
       },
-      databases: ["MySQL", "Redis"],
+      databases: ["MySQL", "Redis","PostgreSQL"],
       cloud: ["Docker", "Kubernetes"],
       package manager: ["Maven", "Gradle", "Helm"]
    },
