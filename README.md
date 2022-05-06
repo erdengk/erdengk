@@ -11,6 +11,8 @@ Welcome to subscribe to my newsletter： [Fowever Free](https://erdengk.zhubai.l
 
 Here is my summary of [open source activities](https://erdengk.zhubai.love/posts/2128547227013922816).
 
+这里是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
+
 I'm preparing to go for a daily internship after September this year. 
 
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue) [![Commits Badge](https://badges.pufler.dev/commits/monthly/erdengk)](https://badges.pufler.dev)
