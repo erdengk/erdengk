@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Kai Dang
 
-Hi, I'm `Kai Dang`, engage in software development work using Java language.
+Hi, I'm `Kai Dang`, [GSoC(Google Summer of Code)](https://summerofcode.withgoogle.com/) 2022 Student, Apache org Rank 11/121.
 
 Currently contributing to [Apache ShenYu](https://github.com/apache/incubator-shenyu)
 <!-- 
