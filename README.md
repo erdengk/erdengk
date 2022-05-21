@@ -17,6 +17,8 @@ I'm preparing to go for a daily internship after September this year.
 
 这是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
 
+近期准备更新的分享 : [GSoC 从开始到中选](http://erdengk.top/archives/gsoc-cong-kai-shi-dao-zhong-xuan)
+
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue) [![Commits Badge](https://badges.pufler.dev/commits/monthly/erdengk)](https://badges.pufler.dev)
 
 
