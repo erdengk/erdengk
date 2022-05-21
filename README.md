@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Kai Dang
 
-Hi, I'm `Kai Dang`, [GSoC(Google Summer of Code)](https://summerofcode.withgoogle.com/) 2022 Student, Apache org Rank 11/121.
+Hi, I'm `Kai Dang`, [GSoC 2022 Student (Google Summer of Code)](https://summerofcode.withgoogle.com/programs/2022/projects/wWJCM4HI) , Apache org Rank 11/121.
 
 Currently contributing to [Apache ShenYu](https://github.com/apache/incubator-shenyu)
 <!-- 
@@ -11,9 +11,11 @@ Welcome to subscribe to my newsletter： [Fowever Free](https://erdengk.zhubai.l
 
 Here is my summary of [open source activities](https://erdengk.zhubai.love/posts/2128547227013922816).
 
-这是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
+
 
 I'm preparing to go for a daily internship after September this year. 
+
+这是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
 
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue) [![Commits Badge](https://badges.pufler.dev/commits/monthly/erdengk)](https://badges.pufler.dev)
 
