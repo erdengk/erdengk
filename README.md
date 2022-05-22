@@ -5,9 +5,9 @@ Hi, I'm `Kai Dang`, [GSoC 2022 Student (Google Summer of Code)](https://summerof
 Currently contributing to [Apache ShenYu](https://github.com/apache/incubator-shenyu)
 <!-- 
 Welcome to this [community](https://bbs.gsoc.com.cn/) for beginners of open source. -->
+<!-- 
 
-
-Welcome to subscribe to my newsletter： [Fowever Free](https://erdengk.zhubai.love/).
+Welcome to subscribe to my newsletter： [Fowever Free](https://erdengk.zhubai.love/). -->
 
 Here is my summary of [open source activities](https://erdengk.zhubai.love/posts/2128547227013922816).
 
