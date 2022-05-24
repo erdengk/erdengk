@@ -92,9 +92,10 @@ const aboutMe = {
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
+<!-- 
 _contribution snake generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/erdengk/erdengk/output/github-contribution-grid-snake.svg)
-
+ -->
 
 
