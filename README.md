@@ -9,7 +9,7 @@ Welcome to this [community](https://bbs.gsoc.com.cn/) for beginners of open sour
 
 Welcome to subscribe to my newsletter： [Fowever Free](https://erdengk.zhubai.love/). -->
 
-Here is my summary of [open source activities](https://erdengk.zhubai.love/posts/2128547227013922816).
+Here is my summary of [open source activities](https://erdengk.github.io/gsoc-analyse/cn/activity/).
 
 
 
