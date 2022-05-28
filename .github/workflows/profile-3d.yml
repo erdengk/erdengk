@@ -7,7 +7,7 @@ on:
   # run on every push on the master branch
   push:
     branches:
-    - master
+    - master-3d
 
 jobs:
   build:
