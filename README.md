@@ -60,7 +60,7 @@ I'm preparing to go for a daily internship after September this year.
 ```js
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [ Java, Go , Python , HTML, CSS, JavaScript],
+   code: [ Java, Go , Python , C++ , HTML, CSS, JavaScript],
    technologies: {
       backEnd: {
          java: ["Spring"],["Spring Cloud"],["Apache ShenYu"]
