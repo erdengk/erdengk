@@ -63,7 +63,7 @@ const aboutMe = {
    code: [ Java, Go , Python , C++ , HTML, CSS, JavaScript],
    technologies: {
       backEnd: {
-         java: ["Spring"],["Spring Cloud"],["Apache ShenYu"]
+         Java: ["Spring"],["Spring Cloud"],["Apache ShenYu"],["Apache ZooKeeper"]
       },
       databases: ["MySQL", "Redis","PostgreSQL"],
       cloud: ["Docker", "Kubernetes"],
