@@ -1,6 +1,4 @@
-# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Kai Dang
-
-Hi, I'm `Kai Dang`
+# 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Kai Dang 👋
 
 @Google Summer of Code (GSoC) 2022 Student, [project](https://summerofcode.withgoogle.com/programs/2022/projects/wWJCM4HI) , Apache org Rank 11/121.
 
