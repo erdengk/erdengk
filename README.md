@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 Kai Dang 👋
 
-@Google Summer of Code (GSoC) 2022 Student, [project](https://summerofcode.withgoogle.com/programs/2022/projects/wWJCM4HI) , Apache org Rank 11/121.
+@Google Summer of Code (GSoC) 2022 Student , Apache org Rank 11/121, [project](https://summerofcode.withgoogle.com/programs/2022/projects/wWJCM4HI).
 
 @CCF GitLink Code Camp (GLCC) 2022 Mentor, [project](https://www.gitlink.org.cn/glcc/subjects/detail/84).
 
