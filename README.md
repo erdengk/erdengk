@@ -5,8 +5,7 @@
 @CCF GitLink Code Camp (GLCC) 2022 Mentor, [project](https://www.gitlink.org.cn/glcc/subjects/detail/84).
 
 
-
-Currently contributing to [Apache ShenYu](https://github.com/apache/incubator-shenyu)
+Currently contributing to [Apache ShenYu](https://github.com/apache/shenyu)
 <!-- 
 Welcome to this [community](https://bbs.gsoc.com.cn/) for beginners of open source. -->
 <!-- 
