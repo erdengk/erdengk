@@ -66,7 +66,7 @@ const aboutMe = {
       package manager: ["Maven", "Gradle", "Helm"]
    },
    currentOccupation: ["First-year graduate students. Seeking daily internships"],
-   challenge: "Complete GSoC2022",
+   challenge: "find a daily internship",
 };
 ```
 
