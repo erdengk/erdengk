@@ -65,7 +65,7 @@ const aboutMe = {
       cloud: ["Docker", "Kubernetes"],
       package manager: ["Maven", "Gradle", "Helm"]
    },
-   currentOccupation: ["First-year graduate students. Seeking daily internships"],
+   currentOccupation: ["Second-year graduate students. Seeking daily internships"],
    challenge: "find a daily internship",
 };
 ```
