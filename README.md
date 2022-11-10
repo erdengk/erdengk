@@ -53,22 +53,7 @@ I'm preparing to go for a daily internship after September this year.
 ![Nginx](https://img.shields.io/badge/-Nginx-%23269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
  -->
-```js
-const aboutMe = {
-   pronouns: "he" | "him",
-   code: [ Java, Go , Python , C++ , HTML, CSS, JavaScript],
-   technologies: {
-      backEnd: {
-         Java: ["Spring"],["Spring Cloud"],["Apache ShenYu"],["Apache ZooKeeper"]
-      },
-      databases: ["MySQL", "Redis","PostgreSQL"],
-      cloud: ["Docker", "Kubernetes"],
-      package manager: ["Maven", "Gradle", "Helm"]
-   },
-   currentOccupation: ["Second-year graduate students. Seeking daily internships"],
-   challenge: "find a daily internship",
-};
-```
+
 
 
 <!-- ## 📫 Reach me
