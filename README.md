@@ -19,7 +19,7 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 
 ~~准备22年9月以后去找日常实习~~
 
-22年12月更新：已拿到美团、百度、网易、B站的日常实习offer
+22年12月更新：已拿到美团、百度、网易、滴滴、B站的日常实习offer
 
 
 这是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
