@@ -14,8 +14,8 @@ Welcome to subscribe to my newsletter： [Fowever Free](https://erdengk.zhubai.l
 
 Here is my summary of [open source activities](https://erdengk.github.io/gsoc-analyse/cn/activity/).
 
-----
 
+## 近况
 
 ~~准备22年9月以后去找日常实习~~
 
@@ -25,8 +25,16 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 这是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
 
 近期准备更新的分享 : [GSoC 从开始到中选](http://erdengk.top/archives/gsoc-cong-kai-shi-dao-zhong-xuan)(2022年12月左右开始)
+
+## GSoC-CN 社群公开分享
+
+[GSoC-CN 社群关于OSPP的开源经验分享](https://www.bilibili.com/video/BV1E3411P7d2)
+
+[GSoC-CN 社群分享：开源与学生](https://www.bilibili.com/video/BV19f4y1f71G)
  
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue)
+
+
 
 
 
