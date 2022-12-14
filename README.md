@@ -28,9 +28,9 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 
 ## GSoC-CN 社群公开分享
 
-[GSoC-CN 社群关于OSPP的开源经验分享](https://www.bilibili.com/video/BV1E3411P7d2)
+<a href="https://www.bilibili.com/video/BV1E3411P7d2" target="_blank">GSoC-CN 社群关于OSPP的开源经验分享</a>
 
-[GSoC-CN 社群分享：开源与学生](https://www.bilibili.com/video/BV19f4y1f71G)
+<a href="https://www.bilibili.com/video/BV19f4y1f71G" target="_blank">GSoC-CN 社群分享：开源与学生</a>
  
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue)
 
