@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 erdengk 👋
 
-@Google Summer of Code (GSoC) 2022 Student , Apache org Rank 11/121, [project](https://summerofcode.withgoogle.com/programs/2022/projects/wWJCM4HI).
+@Google Summer of Code (GSoC) 2022 Student , Apache org Rank 11/121
 
 @CCF GitLink Code Camp (GLCC) 2022 Mentor
 
@@ -25,7 +25,9 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 
 这是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
 
-近期准备更新的分享 : [GSoC 从开始到中选](http://erdengk.top/archives/gsoc-cong-kai-shi-dao-zhong-xuan)(2022年12月左右开始)
+[GSoC 从开始到中选](http://erdengk.top/archives/gsoc-cong-kai-shi-dao-zhong-xuan)
+
+[GSoC-1 ｜ GSoC介绍、活动流程、名额机制](http://erdengk.top/archives/gsoc-1)
 
 ## GSoC-CN 社群公开分享
 
