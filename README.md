@@ -23,6 +23,7 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 
 拿个offer知识星球合伙人 ｜ [24届秋招 | 高密度信息交流环境 | 高质量交流群](https://zhuanlan.zhihu.com/p/600246510)
 
+[我的硕士前半生| 曾牛客热榜2天 ](https://erdengk.top/archives/wo-de-shuo-shi-qian-ban-sheng)
 
 准备23年暑期实习及秋季招聘
 
