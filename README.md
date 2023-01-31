@@ -21,11 +21,13 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 
 ~~22年12月更新：已拿到美团、百度、网易、滴滴、B站的日常实习offer~~
 
-拿个offer知识星球合伙人 ｜ [24届秋招 | 高密度信息交流环境 | 高质量交流群](https://zhuanlan.zhihu.com/p/600246510)
-
-[我的硕士前半生| 曾牛客热榜2天 ](https://erdengk.top/archives/wo-de-shuo-shi-qian-ban-sheng)
+2023年1月 拿个offer知识星球合伙人 ｜ [24届秋招 | 高密度信息交流环境 | 高质量交流群](https://zhuanlan.zhihu.com/p/600246510)
 
 准备23年暑期实习及秋季招聘
+
+# 文章/分享
+
+[2023.1.26 我的硕士前半生| 曾牛客热榜2天 ](https://erdengk.top/archives/wo-de-shuo-shi-qian-ban-sheng)
 
 这是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
 
@@ -38,6 +40,8 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 <a href="https://www.bilibili.com/video/BV1E3411P7d2" target="_blank">GSoC-CN 社群关于OSPP的开源经验分享</a>
 
 <a href="https://www.bilibili.com/video/BV19f4y1f71G" target="_blank">GSoC-CN 社群分享：开源与学生</a>
+
+<a href="https://www.bilibili.com/video/BV19T411m7ak" target="_blank">Before Good First Issue ｜ 迈出开源第一步 ｜ 开源活动入门指引及活动分享</a>
  
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue)
 
