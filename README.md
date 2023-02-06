@@ -21,7 +21,7 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 
 ~~22年12月更新：已拿到美团、百度、网易、滴滴、B站的日常实习offer~~
 
-2023年1月 拿个offer知识星球合伙人 ｜ [24届秋招 | 高密度信息交流环境 | 高质量交流群](https://zhuanlan.zhihu.com/p/600246510)
+2023年1月 拿个offer知识星球合伙人 ｜ [24届秋招 | 高密度信息交流环境 | 高质量交流群](https://zhuanlan.zhihu.com/p/602571244)
 
 准备23年暑期实习及秋季招聘
 
