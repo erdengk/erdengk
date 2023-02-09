@@ -4,16 +4,7 @@
 
 @CCF GitLink Code Camp (GLCC) 2022 Mentor
 
-
 Currently contributing to [Apache ShenYu](https://github.com/apache/shenyu)
-<!-- 
-Welcome to this [community](https://bbs.gsoc.com.cn/) for beginners of open source. -->
-<!-- 
-
-Welcome to subscribe to my newsletter： [Fowever Free](https://erdengk.zhubai.love/). -->
-
-Here is my summary of [open source activities](https://erdengk.github.io/gsoc-analyse/cn/activity/).
-
 
 ## 近况
 
@@ -23,11 +14,11 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 
 2023年1月 拿个offer知识星球合伙人 ｜ [24届秋招 | 高密度信息交流环境 | 高质量交流群](https://zhuanlan.zhihu.com/p/602571244)
 
-准备23年暑期实习及秋季招聘
+目前在准备23年暑期实习及秋招
 
 # 文章/分享
 
-[2023.1.26 我的硕士前半生| 曾牛客热榜2天 ](https://erdengk.top/archives/wo-de-shuo-shi-qian-ban-sheng)
+[2023.1.26 我的硕士前半生| 曾牛客热榜第一2天 ](https://erdengk.top/archives/wo-de-shuo-shi-qian-ban-sheng)
 
 这是我维护的[《参与开源》](https://erdengk.github.io/gsoc-analyse/)小册。
 
@@ -44,8 +35,6 @@ Here is my summary of [open source activities](https://erdengk.github.io/gsoc-an
 <a href="https://www.bilibili.com/video/BV19T411m7ak" target="_blank">Before Good First Issue ｜ 迈出开源第一步 ｜ 开源活动入门指引及活动分享</a>
  
 ![views](https://komarev.com/ghpvc/?username=erdengk&color=blue)
-
-
 
 
 
