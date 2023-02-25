@@ -1,16 +1,25 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 erdengk 👋
 
-@Google Summer of Code (GSoC) 2022 Student , Apache org Rank 11/121
+###  Open for 2023 summer intership
 
-@CCF GitLink Code Camp (GLCC) 2022 Mentor
+- Ex-intern @BaiDu @NetEase ( Both Backend Development Internships )
 
-Currently contributing to [Apache ShenYu](https://github.com/apache/shenyu)
+- @Google Summer of Code (GSoC) 2022 Student , Apache org Rank 11/121
+
+- @CCF GitLink Code Camp (GLCC) 2022 Mentor
+
+- Interested in: Distributed, Cloud, Observability
+
+Feel free to contact me :)
+
+- Email: wannengdek@gmail.com
+
 
 ## 近况
 
 ~~准备22年9月以后去找日常实习~~
 
-~~22年12月更新：已拿到美团、百度、网易、滴滴、B站的日常实习offer~~
+~~22年12月更新：已拿到美团、网易、滴滴、B站的日常实习offer~~
 
 2023年1月 拿个offer知识星球合伙人 ｜ [24届秋招 | 高密度信息交流环境 | 高质量交流群](https://zhuanlan.zhihu.com/p/602571244)
 
