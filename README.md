@@ -1,12 +1,14 @@
 # 𝗛𝗲𝗹𝗹𝗼 𝗜'𝗺 erdengk 👋
 
-###  Open for 2023 summer intership
+###  Graduation Fall 2024
 
-- Ex-intern @BaiDu @NetEase ( Both Backend Development Internships )
+- Ex-intern @KuaiShou(Commercial Advertising) @BaiDu(Data Middle Office) @NetEase(Overseas Trade) 
 
 - @Google Summer of Code (GSoC) 2022 Student , Apache org Rank 11/121
 
 - @CCF GitLink Code Camp (GLCC) 2022 Mentor
+
+- @Shubhra Kar Linux Foundation Training (LiFT) 2023 OSPO Student
 
 - Interested in: Distributed, Cloud, Observability
 
@@ -23,7 +25,7 @@ Feel free to contact me :)
 
 2023年1月 拿个offer知识星球合伙人 ｜ [24届秋招 | 高密度信息交流环境 | 高质量交流群](https://zhuanlan.zhihu.com/p/602571244)
 
-目前在准备23年暑期实习及秋招
+目前在准备23年秋招
 
 # 文章/分享
 
