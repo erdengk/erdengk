@@ -19,7 +19,7 @@ Feel free to contact me :)
 
 ## 近况
 
-26年1月 近一年一直专耕于Ai Agent 方向，想去看看更大的世界，期待新的工作， 新的[简历](https://erdengk.github.io/cv/)
+26年1月 近一年一直专耕于Ai Agent 方向，想去看看更大的世界，期待新的机会， 新的[简历](https://erdengk.github.io/cv/)
 
 23年12月 拿了两个offer，快手商业化和小红书商业化，评级都是 大SSP，最后选了上海小红书。
 
